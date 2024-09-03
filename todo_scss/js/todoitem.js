@@ -1,6 +1,6 @@
 export default class Todoitem {
   constructor() {
-    this._id = id;
+    this._id = null;
     this._item = null;
   }
   getId() {
